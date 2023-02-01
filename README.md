@@ -15,7 +15,6 @@
 - Blog (fr): https://haurchefant.fr
 - Mastodon: <a rel="me" href="https://piaille.fr/@Geobomatic">Geob-o-matic</a>
 - FlickR: [Geobert](https://www.flickr.com/photos/geobmcfly/)
-- Twitter: [Geob-o-matic](https://twitter.com/geobomatic)
 
 <!--
 **Geobert/Geobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
