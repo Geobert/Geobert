@@ -2,6 +2,8 @@
 
 #GeekBeforeItBecameCool #Rust #Splitkeyboard
 
+# /!\ I’m not on Twitter/X, if someone claims to be me there, it’s a scam. /!\
+
 ## Rust
 - [emile](https://github.com/Geobert/emile), a workflow companion for [Zola](https://getzola.org), the static site generator
 - [caith](https://github.com/Geobert/caith), a dice roller library written in Rust (and also a card drawer)
