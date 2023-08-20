@@ -2,7 +2,7 @@
 
 #GeekBeforeItBecameCool #Rust #Splitkeyboard
 
-# /!\ I’m not on Twitter/X, if someone claims to be me there, it’s a scam. /!\
+# /!\ I’m not on Twitter/X, if someone claims to be me there, it’s a scam.
 
 ## Rust
 - [emile](https://github.com/Geobert/emile), a workflow companion for [Zola](https://getzola.org), the static site generator
