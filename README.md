@@ -10,6 +10,7 @@
 - [dìsle](https://github.com/Geobert/disle), a Discord bot using [`caith`](https://github.com/Geobert/caith)
 
 ## Other projects
+- [My Neovim config](https://codeberg.org/geobert/nvim-config)
 - [The Snowslide](https://github.com/Geobert/snowslide_site), an unibody split keyboard derived from [the Avalanche](https://github.com/vlkv/avalanche/)
 - [Dark plus One Monokai](https://github.com/Geobert/dark-plus-one-monokai), a custom theme for VSCode using default Dark+ theme and One Monokai syntax highlighting
 
